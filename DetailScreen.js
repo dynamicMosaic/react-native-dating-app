@@ -37,7 +37,7 @@ export class LeftButton extends Component {
             shadowColor: '#000'
           }
         ]}
-        color={'#fff'}
+        color={'#'}
       />
     );
   }
